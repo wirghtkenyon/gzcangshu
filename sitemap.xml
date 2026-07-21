@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+    <url>
+        <loc>https://gzcangshu.com/</loc>
+        <lastmod>2026-01-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://gzcangshu.com/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://gzcangshu.com/"/>
+        <image:image>
+            <image:loc>https://gzcangshu.com/images/hero-bg.png</image:loc>
+            <image:title>gzcangshu.com - Minimalist Digital Products, Privacy-First</image:title>
+            <image:caption>Hero image of gzcangshu.com, a research-driven development team building privacy-first digital products.</image:caption>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://gzcangshu.com/services.html</loc>
+        <lastmod>2026-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://gzcangshu.com/services.html"/>
+    </url>
+    <url>
+        <loc>https://gzcangshu.com/advantages.html</loc>
+        <lastmod>2026-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://gzcangshu.com/advantages.html"/>
+    </url>
+    <url>
+        <loc>https://gzcangshu.com/news.html</loc>
+        <lastmod>2026-01-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://gzcangshu.com/news.html"/>
+    </url>
+    <url>
+        <loc>https://gzcangshu.com/contact.html</loc>
+        <lastmod>2026-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://gzcangshu.com/contact.html"/>
+    </url>
+    <url>
+        <loc>https://gzcangshu.com/privacy.html</loc>
+        <lastmod>2026-01-15</lastmod>
+        <changefreq>quarterly</changefreq>
+        <priority>0.5</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://gzcangshu.com/privacy.html"/>
+    </url>
+    <url>
+        <loc>https://gzcangshu.com/terms.html</loc>
+        <lastmod>2026-01-15</lastmod>
+        <changefreq>quarterly</changefreq>
+        <priority>0.5</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://gzcangshu.com/terms.html"/>
+    </url>
+</urlset>
